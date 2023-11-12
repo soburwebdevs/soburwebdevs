@@ -1,9 +1,9 @@
 [![MasterHead](https://richestsoft.com/blog/wp-content/uploads/2019/04/web-development-banner.jpg)](https://soburwebdevs.io)
 <h1 align="center">Hi 👋, I'm Sobur Ahmed</h1>
-<h3 align="center">A passionate Laravel & WordPress developer from Bangladesh</h3>
+<h3 align="center">A passionate Laravel & WordPress Web Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611e8a32fd622bb2c9445fa6d9be93bde85820eb613&rid=giphy.gif&ct=g">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sobur-ahmed&label=Profile%20views&color=0e75b6&style=flat" alt="sobur-ahmed" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=soburwebdevs&label=Profile%20views&color=0e75b6&style=flat" alt="soburwebdevs" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
