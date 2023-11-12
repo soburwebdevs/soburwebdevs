@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Javascript**
 
-- 👨‍💻 All of my projects are available at [https://basic.soburahmed.com/](https://basic.soburahmed.com/)
+- 👨‍💻 All of my projects are available at [https://basic.soburahmed.com/](https://soburwebdevs.com/)
 
 - 💬 Ask me about **PHP, LARAVEL & JAVASCRIPT**
 
