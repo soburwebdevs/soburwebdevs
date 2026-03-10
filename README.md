@@ -63,6 +63,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=soburwebdevs&show_icons=true&locale=en&layout=compact" alt="sobur-ahmed" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=soburwebdevs&show_icons=true&locale=en" alt="sobur-ahmed" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=soburwebdevs&show_icons=true&locale=en" alt="sobur-ahmed" /></p> -->
 
 
